@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    padding: 20;
+    background-color: #72df2a;
+}
+
+h1 {
+    color: #bb1f1f;
+}
+
+button {
+    padding: 40px 40px;
+    background-color: #007BFF;
+    color: rgb(194, 46, 46);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1a4d83;
+}
+
+#cocktailContainer {
+    margin-top: 50px;
+}
+
+#cocktailContainer img {
+    max-width: 100;
+    height: auto;
+}
