@@ -1,0 +1,17 @@
+Este proyecto es una aplicación web simple que utiliza la API de The Cocktail DB para mostrar información sobre un cóctel aleatorio.
+
+Actividad 4:
+Actividad -cocktail
+Instrucciones de Configuración:
+1. Clona o descarga el repositorio del Actividad.
+2. Abre la carpeta del Actividad en Visual Studio Code.
+Instrucciones de Ejecución:
+1. Abre el archivo `index.html` en Visual Studio Code.
+2. Haz clic derecho en `index.html` y selecciona "Open with Live Server".
+3. La aplicación navegador predeterminado.
+Tecnologías Utilizadas:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- API de The Cocktail (https://www.thecocktaildb.com/api.php)
